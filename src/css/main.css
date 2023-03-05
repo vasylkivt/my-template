@@ -1,0 +1,42 @@
+/*
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+
+
+/* utils */
+@import url('./utils/variables.css');
+
+/* base */
+@import url('./base/fonts.css');
+@import url('./base/reset.css');
+@import url('./base/common.css');
+
+/* components */
+@import url('./components/button.css');
+@import url('./components/button-top.css');
+@import url('./components/container.css');
+@import url('./components/visually-hidden.css');
+@import url('./components/hover-button.css');
+
+
+/* modal-windows */
+
+
+/* mobile-menu */
+
+
+
+/* layout */
+@import url('./layout/header.css');
+
+@import url('./layout/hero.css');
+
+@import url('./layout/footer.css');
+
+/* pages */
+
+
+
